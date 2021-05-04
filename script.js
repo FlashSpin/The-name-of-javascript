@@ -1,0 +1,1 @@
+let ans = prompt("What is the real name of javascript")
